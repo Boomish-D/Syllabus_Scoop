@@ -1,8 +1,9 @@
 {
-  "name": "syllabus-viewer",
+  "name": "Syllabus-Scoop",
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "homepage": "https://Boomish-D.github.io/Syllabus_Scoop",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,11 +15,13 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
+  "predeploy": "rpm run build",
+  "deploy": "gh-pages -d dist",
   "devDependencies": {
     "@testing-library/jest-dom": "^6.4.8",
     "@testing-library/react": "^16.0.0",
     "@vitejs/plugin-react": "^4.3.1",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "jsdom": "^24.1.1",
     "vite": "^5.4.2",
     "vitest": "^2.0.5"
