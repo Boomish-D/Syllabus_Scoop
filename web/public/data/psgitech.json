@@ -1,0 +1,136 @@
+{
+  "college": "PSG iTech",
+  "programmes": [
+    {
+      "code": "CSE",
+      "name": "B.E. Computer Science and Engineering",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "subjects": [
+                {
+                  "code": "25CS101",
+                  "name": "Programming for Problem Solving",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Introduction to Computing",
+                      "topics": ["Number systems", "Algorithms", "Flowcharts", "Programming paradigms"]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "C Fundamentals",
+                      "topics": ["Data types", "Operators", "Decision and loop constructs", "Arrays and strings"]
+                    },
+                    {
+                      "unit": "Unit 3",
+                      "title": "Modular Programming",
+                      "topics": ["Functions", "Recursion", "Pointers", "Structures and unions"]
+                    },
+                    {
+                      "unit": "Unit 4",
+                      "title": "File Handling and Preprocessing",
+                      "topics": ["File operations", "Preprocessor directives", "Command line arguments"]
+                    }
+                  ]
+                },
+                {
+                  "code": "25MA101",
+                  "name": "Linear Algebra and Calculus",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Linear Algebra",
+                      "topics": ["Vector spaces", "Eigenvalues", "Eigenvectors", "Diagonalization"]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Differential and Integral Calculus",
+                      "topics": ["Partial differentiation", "Multiple integrals", "Vector calculus"]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "subjects": [
+                {
+                  "code": "25CS102",
+                  "name": "Data Structures and Algorithms",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Linear Structures",
+                      "topics": ["Arrays", "Linked lists", "Stacks", "Queues"]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Trees and Hashing",
+                      "topics": ["Binary trees", "BSTs", "AVL trees", "Hash tables"]
+                    },
+                    {
+                      "unit": "Unit 3",
+                      "title": "Graph Algorithms",
+                      "topics": ["Graph traversal", "Minimum spanning trees", "Shortest path algorithms"]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 3,
+              "subjects": [
+                {
+                  "code": "25CS201",
+                  "name": "Database Systems",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Relational Databases",
+                      "topics": ["ER modeling", "Relational algebra", "Normal forms", "SQL"]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Transaction Management",
+                      "topics": ["ACID properties", "Concurrency control", "Crash recovery"]
+                    }
+                  ]
+                },
+                {
+                  "code": "25CS202",
+                  "name": "Computer Networks and Protocols",
+                  "credits": "3",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Layered Architecture",
+                      "topics": ["OSI reference model", "TCP/IP suite", "Physical and data link layers"]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Routing and Transport",
+                      "topics": ["IP addressing", "Routing protocols", "TCP", "UDP"]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

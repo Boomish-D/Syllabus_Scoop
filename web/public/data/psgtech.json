@@ -1,0 +1,529 @@
+{
+  "college": "PSG Tech",
+  "programmes": [
+    {
+      "code": "CSE",
+      "name": "B.E. Computer Science and Engineering",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "subjects": [
+                {
+                  "code": "20CS101",
+                  "name": "Problem Solving and Programming in C",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Introduction to Problem Solving",
+                      "topics": [
+                        "Algorithms",
+                        "Flowcharts",
+                        "Pseudocode",
+                        "Structured programming approach"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "C Programming Basics",
+                      "topics": [
+                        "Data types",
+                        "Operators",
+                        "Control statements",
+                        "Arrays"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 3",
+                      "title": "Functions and Recursion",
+                      "topics": [
+                        "Function definitions",
+                        "Parameter passing",
+                        "Recursion",
+                        "Storage classes"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 4",
+                      "title": "Pointers and Structures",
+                      "topics": [
+                        "Pointer arithmetic",
+                        "Dynamic memory allocation",
+                        "Structures",
+                        "Unions"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 5",
+                      "title": "File Handling",
+                      "topics": [
+                        "File I/O",
+                        "Command line arguments",
+                        "Preprocessor directives"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "20MA101",
+                  "name": "Matrices and Calculus",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Matrices",
+                      "topics": [
+                        "Eigenvalues",
+                        "Eigenvectors",
+                        "Cayley-Hamilton theorem",
+                        "Diagonalization"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Differential Calculus",
+                      "topics": [
+                        "Curvature",
+                        "Evolutes",
+                        "Partial derivatives",
+                        "Maxima and minima"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "subjects": [
+                {
+                  "code": "20CS102",
+                  "name": "Data Structures",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Linear Data Structures",
+                      "topics": [
+                        "Arrays",
+                        "Linked lists",
+                        "Stacks",
+                        "Queues"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Non-Linear Data Structures",
+                      "topics": [
+                        "Trees",
+                        "Binary search trees",
+                        "AVL trees",
+                        "Heaps"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 3",
+                      "title": "Graphs",
+                      "topics": [
+                        "Graph representations",
+                        "BFS",
+                        "DFS",
+                        "Shortest path algorithms"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 3,
+              "subjects": [
+                {
+                  "code": "20CS201",
+                  "name": "Database Management Systems",
+                  "credits": "4",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Relational Model",
+                      "topics": [
+                        "ER modeling",
+                        "Relational algebra",
+                        "Normalization",
+                        "SQL basics"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Transactions",
+                      "topics": [
+                        "ACID properties",
+                        "Concurrency control",
+                        "Recovery techniques"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "20CS202",
+                  "name": "Computer Networks",
+                  "credits": "3",
+                  "chapters": [
+                    {
+                      "unit": "Unit 1",
+                      "title": "Network Fundamentals",
+                      "topics": [
+                        "OSI model",
+                        "TCP/IP model",
+                        "Physical layer basics"
+                      ]
+                    },
+                    {
+                      "unit": "Unit 2",
+                      "title": "Data Link and Network Layer",
+                      "topics": [
+                        "Framing",
+                        "Error control",
+                        "Routing algorithms",
+                        "IP addressing"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICE",
+      "name": "B.E. Instrumentation and Control Engineering",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "subjects": [
+                {
+                  "code": "23IP15",
+                  "name": "INDUCTION PROGRAMME",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TC01",
+                  "name": "த�ழர்மர� / HERITAGE OF TAMILS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TC02",
+                  "name": "த�ழ�ம் ெதா�ல்�ட்ப�ம் / TAMILS AND TECHNOLOGY",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF01",
+                  "name": "ADVANCED INDUSTRIAL AUTOMATION SYSTEMS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF02",
+                  "name": "SYSTEM DESIGN AND IMPLEMENTATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF03",
+                  "name": "CALIBRATION TECHNIQUES",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF04",
+                  "name": "MOTION CONTROL SYSTEMS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF05",
+                  "name": "ELECTRICAL METROLOGY",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF06",
+                  "name": "STANDARD PRACTICES FOR POWER PLANT INSTRUMENTATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF07",
+                  "name": "AUTOMOTIVE INSTRUMENTATION AND CONTROL",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF08",
+                  "name": "AIRCRAFT INSTRUMENTATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF09",
+                  "name": "AUTOMATIC FLIGHT CONTROL SYSTEM",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFH01",
+                  "name": "CLOSED LOOP ECONOMY AND ENGINEERING SOLUTIONS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFM01",
+                  "name": "INTRODUCTION TO QUATERNION ALGEBRA",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP01",
+                  "name": "PHOTONICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP02",
+                  "name": "LASERS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP03",
+                  "name": "OPTICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP04",
+                  "name": "FIBER OPTICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP05",
+                  "name": "QUANTUM PHOTONICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFC01",
+                  "name": "BATTERY THERMAL MANAGEMENT SYSTEMS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFC02",
+                  "name": "HYDROGEN ENERGY FOR ELECTRICAL MOBILITY",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23IC01",
+                  "name": "EXPERIENCING ENTREPRENEURSHIP",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23IC02",
+                  "name": "VENTURE DEVELOPMENT",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TL01",
+                  "name": "PUBLIC ADMINISTRATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TL02",
+                  "name": "PUBLIC POLICY AND INDIAN ECONOMY",
+                  "credits": "",
+                  "chapters": []
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "subjects": [
+                {
+                  "code": "23IP15",
+                  "name": "INDUCTION PROGRAMME",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TC01",
+                  "name": "த�ழர்மர� / HERITAGE OF TAMILS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TC02",
+                  "name": "த�ழ�ம் ெதா�ல்�ட்ப�ம் / TAMILS AND TECHNOLOGY",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF01",
+                  "name": "ADVANCED INDUSTRIAL AUTOMATION SYSTEMS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF02",
+                  "name": "SYSTEM DESIGN AND IMPLEMENTATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF03",
+                  "name": "CALIBRATION TECHNIQUES",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF04",
+                  "name": "MOTION CONTROL SYSTEMS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF05",
+                  "name": "ELECTRICAL METROLOGY",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF06",
+                  "name": "STANDARD PRACTICES FOR POWER PLANT INSTRUMENTATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF07",
+                  "name": "AUTOMOTIVE INSTRUMENTATION AND CONTROL",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF08",
+                  "name": "AIRCRAFT INSTRUMENTATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23UF09",
+                  "name": "AUTOMATIC FLIGHT CONTROL SYSTEM",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFH01",
+                  "name": "CLOSED LOOP ECONOMY AND ENGINEERING SOLUTIONS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFM01",
+                  "name": "INTRODUCTION TO QUATERNION ALGEBRA",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP01",
+                  "name": "PHOTONICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP02",
+                  "name": "LASERS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP03",
+                  "name": "OPTICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP04",
+                  "name": "FIBER OPTICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFP05",
+                  "name": "QUANTUM PHOTONICS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFC01",
+                  "name": "BATTERY THERMAL MANAGEMENT SYSTEMS",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23OFC02",
+                  "name": "HYDROGEN ENERGY FOR ELECTRICAL MOBILITY",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23IC01",
+                  "name": "EXPERIENCING ENTREPRENEURSHIP",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23IC02",
+                  "name": "VENTURE DEVELOPMENT",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TL01",
+                  "name": "PUBLIC ADMINISTRATION",
+                  "credits": "",
+                  "chapters": []
+                },
+                {
+                  "code": "23TL02",
+                  "name": "PUBLIC POLICY AND INDIAN ECONOMY",
+                  "credits": "",
+                  "chapters": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
