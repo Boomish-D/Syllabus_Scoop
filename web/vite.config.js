@@ -8,7 +8,7 @@ import react from "@vitejs/plugin-react";
 // (https://<username>.github.io/).
 export default defineConfig({
   plugins: [react()],
-  base: "/Syllabus-Scoop",
+  base: "/Syllabus-Scoop/",
   test: {
     environment: "jsdom",
     setupFiles: "./tests/setup.js",
