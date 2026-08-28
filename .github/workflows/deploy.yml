@@ -2,6 +2,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [dev]   # or main, whichever you want live
+permissions:
+  contents: write  # Allows pushing commits, tags, and creating releases
+  pull-requests: write # Required for PR automation actions
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
